@@ -1,8 +1,6 @@
+Киберқауіпсіздік solo project.
+
 JWT аутентификациясы бар REST API.
-
-кибербезопасность solo project
-
-JWT аутентификациясы бар REST API
 
 1. Жобаның мақсаты (Project Description)
 
